@@ -1,0 +1,25 @@
+h1 {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: rgba(255,0,0,1);
+}
+
+input[type="text"] {
+    width: 200px;
+    float: left;
+}
+
+.search {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.narrow-button {
+    float: left;
+    margin-left: 10px;
+}
+
+.jumbotron {
+    border: 1px blue;
+}
