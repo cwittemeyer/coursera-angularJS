@@ -1,0 +1,19 @@
+body {
+  font-size: 14pt;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+  display: none;
+}
+
+ul {
+  max-height: 300px;
+  overflow-y: scroll;
+}
+
+li[ui-sref]:hover {
+  font-weight: bold;
+  color: blue;
+}
